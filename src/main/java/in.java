@@ -5,6 +5,6 @@ public class in {
         System.out.println("git页面修改");
         System.out.println(12334);
         //只是测试例子
-        System.out.println("idea新添加");
+        System.out.println("idea新添加信信信");
     }
 }
