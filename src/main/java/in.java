@@ -6,6 +6,6 @@ public class in {
         System.out.println(12334);
 //只是测试例子
 System.out.println("idea新添加信信信");
-        System.out.println("eclipse鏂版坊鍔�");
+        System.out.println("eclipse鏂版坊鍔�--idea添加");
     }
 }
